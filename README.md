@@ -1,5 +1,8 @@
 # Netflix_data_analysis
+
+DATASET :- https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 Tool used :- SQL
+
 QUESTIONS I WANT TO ANSWER FROM DATASET ARE : -
 
 What were the top 10 movies according to IMDB score?
